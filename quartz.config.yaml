@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: winterbeef.github.io/tenzig
+  baseUrl: winterbeef.github.io/tenzig-almanac
   ignorePatterns:
     - private
     - templates
