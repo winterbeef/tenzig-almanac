@@ -113,7 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "amber-cathode"
+      theme: "alien"
       mode: "dark"
   - source: "@quartz-community/remove-draft"
     enabled: true
