@@ -111,9 +111,10 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
+    enabled: true
     options:
-      theme: "abyssal"
-      mode: "both"
+      theme: "amber-cathode"
+      mode: "dark"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
