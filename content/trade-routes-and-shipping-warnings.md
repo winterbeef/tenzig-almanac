@@ -1,39 +1,49 @@
----
-title: "Trade Routes and Shipping Warnings"
-tags: [tenzig, travelogue, pre-scream, trade, shipping]
-description: "Practical advice for merchants and haulers moving cargo across the cluster — before the routes stopped meaning what they said."
----
+# Trade Routes and Shipping Warnings
 
-## From the Route Guide of the Tabet-Perope Freight Consortium, Standard Edition
+Practical advice for merchants and haulers moving cargo across the cluster — before the routes stopped meaning what they said.
 
-The prudent hauler will find the cluster's core routes well-charted, well-patrolled, and — with the exception of the usual pirate nuisance along the outer Hypsila approach — largely without incident. We recommend the following standard corridors for new haulers unfamiliar with the region:
+## Route Guide, Tabet-Perope Freight Consortium, Standard Edition
 
-The [[lycos|Lycos]]–Rado run is the safest lane in the cluster and requires no special precaution beyond ordinary customs paperwork. The [[perope|Perope]] crossing, contrary to its reputation among newer crews, carries no unusual hazard rating and no escort requirement; the "hazard surcharge" some older ledgers still apply to this route is, in the Consortium's professional opinion, an outdated relic of an earlier era's overcaution, and we have petitioned twice for its removal. The [[eurymem-and-hypsila|Eurymem–Hypsila]] corridor is politically tense but physically uneventful, provided haulers avoid cargo that could be mistaken for military materiel by an overzealous customs inspector on either side.
+```
+MANDATE-ADJACENT RECORD — SHIPPING ADVISORY
+Issuing body:  Tabet-Perope Freight Consortium
+Last Verified: 2611.046
+```
 
-> **Corvid:** I have read enough of this Consortium's paperwork by now to recognize their house style, and their persistent, almost touching insistence that the Perope surcharge is unnecessary appears in no fewer than four separate documents I have gathered for this volume. I do not think they ever got their wish. I think, not very long after this guide was printed, the surcharge stopped being the problem, and the crossing itself became one no surcharge could have priced fairly.
->
-> **Two-Coin:** Every time I read "the Consortium's professional opinion" in one of these documents I hear the sound of a man about to be very wrong very publicly. Present company, historically, included.
+| Route | Mandate Rating | Consortium Notes |
+|---|---|---|
+| [[lycos|Lycos]]–Rado | no hazard | safest lane in cluster |
+| [[perope|Perope]] crossing | hazard surcharge applied, disputed | Consortium considers surcharge outdated, petitioned twice for removal |
+| [[eurymem-and-hypsila|Eurymem]]–Hypsila corridor | politically tense | physically uneventful; avoid cargo resembling military materiel |
 
-## From a Pirate Captain's Standing Orders, Recovered from a Derelict Vessel
+> [MANDATE ADVISORY — 2611.046] Outer Hypsila approach carries elevated risk of privateer activity. No further hazard classification changes recommended pending review.
+
+## Field Notes
+
+> **[FIELD NOTE — J. Praast, Mandate Cartographic Office (ret.), 3134.054]**
+> I've read enough of the old Consortium's paperwork to recognize their house style, and their persistent, almost touching insistence that the Perope surcharge was unnecessary appears in no fewer than four separate documents I've gathered. I don't think they ever got their wish. Not long after that guide was printed, the surcharge stopped being the problem, and the crossing itself became one no surcharge could have priced fairly.
+
+> **[FIELD NOTE — R. Achterberg, independent hauler, 3142.080]**
+> Every time I read "the Consortium's professional opinion" in one of these old documents I hear the sound of a man about to be very wrong very publicly. Present company, historically, included — I've said dumber things about routes I thought I understood.
+
+## Pirate Captain's Standing Orders, Recovered from a Derelict Vessel
 
 Crew are reminded, again, that we do not take the [[lycos|Lycos]] run — too much Mandate patrol traffic for the return worth the risk — and we do not touch anything registered to the [[eurymem-and-hypsila|Eurymedon Concern]], on any world, for any cargo, no matter how tempting the manifest looks. I have my reasons. I am not sharing them with the crew. Ask again and you'll be walking the next port on your own coin.
 
 The Hypsila approach is fair game, always has been, always will be, God bless their overconfident merchant marine. Focus efforts there and we'll all eat well this cycle.
 
-*[hand unknown — recovered from wreckage, captain's identity lost]*
+*[hand unknown — recovered from wreckage, captain's identity lost, undated]*
 
-> **Corvid:** I would very much like to know this captain's reasons for the standing order against [[eurymem-and-hypsila|Eurymedon Concern]] cargo. I suspect — though I stress this is only suspicion — that a captain who survives long enough in this trade to give standing orders has usually survived by noticing things other people miss, and choosing not to explain the noticing.
->
-> **Two-Coin:** I have given orders exactly like this one, for reasons I also didn't share with my crew. I trust this captain completely, on that basis alone.
+> **[FIELD NOTE — Whit, courier, 3122.025]**
+> I'd like to know this captain's reasons for the standing order against Eurymedon Concern cargo. A captain who survives long enough in this trade to give standing orders has usually survived by noticing things other people miss, and choosing not to explain the noticing.
 
-## From a Warlord's Proclamation, Border Territory, Author Titled Only "The Voice of the Reclamation"
+## Warlord's Proclamation, Border Territory, Author Titled Only "The Voice of the Reclamation"
 
 Let all merchant vessels crossing territory claimed by the Reclamation know: passage is granted freely to those who pay the toll, deny nothing to inspection, and carry no arms beyond what a single crew requires for its own defense. Those who violate these terms will find the Reclamation considerably less generous a second time than the first.
 
 We do not war on trade. We war on those who would starve us while calling it commerce.
 
-*[hand unknown]*
+*[hand unknown, undated]*
 
-> **Corvid:** I have found no other record of "the Reclamation" as a named power, and I do not know which border, or which grievance, produced this proclamation. It is included here as a reminder that the cluster's core worlds were never the whole of the map — that plenty of smaller powers, warlords, and border movements rose and fell across these centuries leaving nothing behind but a single scrap of bluster like this one.
->
-> **Two-Coin:** "We do not war on trade" is a sentence every single warlord I've ever met has said, right before doing exactly that. I'll give the Reclamation the same benefit of the doubt I give all of them, which is none.
+> **[FIELD NOTE — Old Ferro, Cardoza dockhand, 3187.219]**
+> No record of "the Reclamation" as a named power survives anywhere else I've looked. Included here as a reminder that the cluster's core worlds were never the whole of the map — plenty of smaller powers rose and fell leaving nothing behind but a single scrap of bluster like this one. "We do not war on trade" is a sentence every warlord I've ever met has said, right before doing exactly that.

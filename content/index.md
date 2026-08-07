@@ -1,34 +1,22 @@
----
-title: "The Tenzig Almanac: A Compiled Survey of the Cluster (Pre-Scream Fragments)"
-tags: [tenzig, travelogue, pre-scream, frontispiece]
-description: "A ragged compilation of merchant ledgers, pirate logs, survey reports, and warlord proclamations describing the Tenzig cluster as it stood before the Scream — six hundred years gone, argued over in the margins by whoever got their hands on the manuscript next."
----
+# The Tenzig Almanac: A Compiled Survey of the Cluster (Pre-Scream Fragments)
 
 ## A Note From Whoever's Holding the Pen This Week
 
-What you hold — or read on a borrowed slate, or have had read to you by a kinder Archivist than most — is not one book. It is forty-one books, wearing one binding, and it has passed through more hands than any of us are entirely comfortable admitting.
+What you hold — or read on a borrowed slate, or have had read to you by a kinder Archivist than most — is not one book. It is not even really a book. It is a strongbox's worth of paper, transmissions, and salvaged records, most of them older than anyone currently alive, bound together because somebody, at some point, decided they belonged in the same box.
 
-Someone, decades ago, gathered every scrap of *pre-Scream* survey writing they could find on the worlds we now call the Tenzig cluster — merchant ledgers, pirate logs, bored survey reports, the odd warlord's proclamation carved into something that doesn't burn — and bound them together. That original compiler is not who's writing to you now. This manuscript has been copied, annotated, argued over, and passed hand to hand long enough that at least three of us feel entitled to leave notes in the margins, and none of us have managed to stop the others from doing the same.
+The Terran Mandate ran a formal cartographic and hazard-survey office out here once, six hundred years gone, and some of what follows is genuinely theirs — dry, bureaucratic, stamped and dated, the kind of document that outlives empires because nobody thought it was important enough to destroy. Some of what follows is not official at all: a trader's ledger, a pirate captain's standing orders, a warlord's proclamation, a dockworker's diary, a physician's case notes, a scrap of a devotional pamphlet. Some of it is barely a fragment — a rumor logged secondhand by someone who never gave their name, a line scratched into a support strut, a children's rhyme nobody can date. Some of these were written before the Scream by people who had no idea what was coming. Some were written centuries after, by people trying to make sense of what the "before" must have looked like, or simply passing along what they'd heard from someone who'd heard it from someone else.
 
-So: a reader's guide to the handwriting.
+Where a document survives with its provenance intact, that provenance is given as it was recorded — a Mandate stardate, a dispatching officer, a dockside source. Where a fragment has been annotated by a later hand, that hand is signed, where a name or alias is known. You will find the same few names recurring more than others — a handful of us have spent real years with this material and couldn't help leaving more of ourselves in the margins than we probably should have. But this is not a book with three narrators. It is a book with dozens, most of whom will never appear again after their one signed line, and a great many who left nothing behind but the fragment itself and no name at all.
 
-**Corvid** — the closest thing this volume has to a steady hand. Careful, a little morbid, inherited the manuscript first and has spent longer with it than anyone else currently annotating. Corvid would like it noted that Corvid does not "over-explain," no matter what certain other contributors keep writing in the margins.
-
-**Two-Coin** — came into possession of a later copy through channels she has declined to specify, and reads the whole thing like a woman pricing salvage. Blunt, unimpressed by scholarship for its own sake, has almost certainly stood in at least two of the ruins this book only theorizes about, and will not confirm which ones.
-
-**Cinder** — the angriest hand in this book, and not shy about it. Came to the manuscript convinced that every institution named in it — every concern, consortium, commission, and league — was hiding something from the people who paid for it, and six hundred years of reading has not moved that conviction an inch. Distrusts authority on principle, corporations on record, and Corvid's careful hedging most of all. Still, underneath the temper, believes — more than either of us, if pressed — that the people in these fragments deserved better than what they got, and that saying so plainly is worth doing even now.
-
-None of us knows who compiled the first bundle of fragments, decades before any of the three of us touched it. We agree on very little else in these pages, but we agree it mattered enough to save, and that it matters enough, still, to keep arguing about.
-
-**A caution, since you will ask:** much of what follows is wrong. Not because these old authors were fools, but because they were writing about a world that no longer exists in any of the ways they assumed it would keep existing. Read it as you would read a letter from someone who does not know they are already dead. Read it for what it tells you about the *living* — about what people believed, wanted, feared, and sold each other, in the last age before the Song went out of the world and came back changed. And read the margins for what they tell you about the living still arguing over the wreckage, six centuries later, who have not agreed on much of anything except that somebody ought to keep reading.
+**A caution, since you will ask:** much of what follows is wrong, or incomplete, or flatly contradicts the entry next to it. Not because these authors were fools, but because they were writing about a world that no longer exists in any of the ways they assumed it would keep existing — or, in the case of the later annotations, writing about a world they never saw firsthand at all. Read it as you would read a stranger's mail. Read it for what it tells you about the *living*, at whatever point in six hundred years they happened to be alive.
 
 ---
 
 ### How This Volume Is Organized
 
-Entries are grouped roughly by system and by subject, in no particular order of importance — the surviving fragments did not come to any of us in any order, and none of us has had the nerve to impose one they didn't have. Each entry names its original source where a source can be guessed at. Where the source is lost, it is marked *hand unknown*.
+Entries are grouped roughly by system and by subject, in no particular order of importance — the surviving fragments did not come to anyone in any order, and nobody has had the nerve to impose one they didn't have. Each fragment names its original source and format where one can be determined: a Mandate survey record, a field dispatch, an intelligence log, a personal ledger, a proclamation. Where the source is lost, it is marked *hand unknown*.
 
-Signed marginal notes are ours — three annotators, sometimes more, arguing across however many years separate our own additions. Where we disagree, we have left the disagreement in, rather than pretend to a consensus none of us actually share.
+Signed marginal notes are later additions — field notes left by whoever was holding the document at the time, sometimes decades apart from each other. Where they disagree, the disagreement is left in.
 
 ---
 
