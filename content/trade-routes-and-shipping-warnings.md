@@ -12,9 +12,9 @@ Last Verified: 2611.046
 
 | Route | Mandate Rating | Consortium Notes |
 |---|---|---|
-| [[lycos|Lycos]]–Rado | no hazard | safest lane in cluster |
-| [[perope|Perope]] crossing | hazard surcharge applied, disputed | Consortium considers surcharge outdated, petitioned twice for removal |
-| [[eurymem-and-hypsila|Eurymem]]–Hypsila corridor | politically tense | physically uneventful; avoid cargo resembling military materiel |
+| [Lycos](lycos)–Rado | no hazard | safest lane in cluster |
+| [Perope](perope) crossing | hazard surcharge applied, disputed | Consortium considers surcharge outdated, petitioned twice for removal |
+| [Eurymem](eurymem-and-hypsila)–Hypsila corridor | politically tense | physically uneventful; avoid cargo resembling military materiel |
 
 > [MANDATE ADVISORY — 2611.046] Outer Hypsila approach carries elevated risk of privateer activity. No further hazard classification changes recommended pending review.
 
