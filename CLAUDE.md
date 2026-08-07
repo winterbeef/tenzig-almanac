@@ -1,57 +1,75 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for Claude Code (or any Claude instance) working in this repo.
 
 ## What this repo is
 
-This is **The Tenzig Almanac**, a personal digital-garden/wiki (fantasy worldbuilding notes) published with **Quartz v5** — a static site generator forked from [jackyzha0/quartz](https://github.com/jackyzha0/quartz). Two things live in this one repo:
+A [Quartz](https://quartz.jzhao.xyz/) static site publishing the **Tenzig Almanac** — an in-universe, player-facing "pre-Scream travelogue" for the Tenzig sector, a Stars Without Number tabletop campaign setting (campaign: *Dusk's Long Shadow*). It is a compiled fictional document, not a wiki about the campaign — every file should read as a primary or annotated source *within* the fiction, not as GM reference material.
 
-- `quartz/` — the site-generator engine (TypeScript/Preact, plugin pipeline, CLI). This is framework code.
-- `content/` — the actual almanac content (Markdown notes: `avire.md`, `cantho.md`, `lycos.md`, etc.). This is what gets published.
+All page content lives under `content/`. Everything outside `content/` (config, workflow files, this file) is ordinary Quartz repo scaffolding.
 
-`docs/` contains upstream Quartz's own documentation pages (unrelated to the almanac content) and `public/` is build output (gitignored).
+## Content conventions
 
-## Commands
+- **No frontmatter/properties.** Every page opens directly with a single `# H1` title — no YAML block above it. Metadata that would normally live in frontmatter (title, source type, date) is instead written *in-fiction*, inside the page body (see "Document formats" below).
+- **Wikilinks**, Obsidian/Quartz style: `[[filename]]` or `[[filename|Display Text]]`. Link target is the target file's slug (filename without `.md`), not its title. When adding a new page, check for natural cross-links to existing entries and add them both ways where it makes sense.
+- **Never use `[[slug|Display]]` wikilink syntax inside a Markdown table cell.** GFM table parsing splits cells on every unescaped `|`, including the one inside the wikilink's alias syntax — this tears the link in half before it can render (confirmed by direct pipeline test, not just inspection). Backslash-escaping the pipe (`[[slug\|Display]]`) fixes the table split but then breaks the wikilink's own alias parsing instead. Inside tables, use a standard Markdown link — `[Display](slug)` — which has no pipe character at all and resolves to the same page. Wikilinks are fine everywhere else (prose, field notes, blockquotes).
+- File slugs are `kebab-case` and descriptive (`the-porth-belt.md`, not `porth.md`).
 
-```bash
-npm install                    # install deps
-npm run install-plugins        # (also runs as `prebuild`) fetch/install plugins declared in quartz.config.yaml
-npx quartz build                # build site to public/
-npx quartz build --serve --watch  # local dev server with live reload (default port 8080)
-npm run check                   # tsc --noEmit && prettier --check
-npm run format                   # prettier --write
-npm test                        # tsx --test  (runs all **/*.test.ts)
-npx tsx --test quartz/util/path.test.ts   # run a single test file
-npx quartz sync                 # commit/push/pull content via git
-npx quartz plugin list|add|remove|enable|disable|config|prune   # manage plugins
+## Document formats
+
+Entries are built from a small set of in-fiction document types, used as flavor, not as a rigid schema:
+
+- **Mandate Record** — dry, bureaucratic pre-Scream survey data, in a fenced code block:
+  ```
+  MANDATE RECORD — SYSTEM SURVEY
+  Coordinates:   ####
+  Star Type:     ...
+  Population:    ...
+  Tech Level:    TL#
+  Starport:      Class #
+  Last Verified: YYYY.DDD
+  ```
+  Variants: `MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY` (factions/companies), `MANDATE RECORD — NAVAL ASSET COMMISSIONING`, `PERSONS OF INTEREST REGISTRY`.
+- **Field Dispatch** — first-person, present-tense, unpolished. Header block: `FIELD DISPATCH (RECOVERED, PRE-SCREAM)` or similar, with `Location:` / `Transmission:` lines.
+- **Unverified Intelligence Log** — rumors, gossip, secondhand reports. Header block with `Reliability:` (`unverified` / `secondhand` / `confirmed`), `Location:`, `Source:`, `Logged:`.
+- **Field Note** — a later annotation on any of the above, signed and dated:
+  `> **[FIELD NOTE — Name/Role, stardate]**` followed by the note text.
+- Primary fragments (ledgers, proclamations, letters, manifests) don't need a formal header — a simple `*[hand unknown, undated]*` attribution line is enough.
+
+## Voice
+
+- **Many sources, not a few recurring narrators.** Don't default to the same two or three named annotators across every entry — invent new one-off voices freely (haulers, dockhands, Mandate surveyors, smugglers, Cerberus Corps agents, Archive adepts, warlords, physicians, etc.). A handful of names may recur, but no single voice should dominate the book.
+- Mix pre-Scream and post-Scream sources within an entry where it makes sense. Pre-Scream fragments don't know what's coming; post-Scream field notes read them with hindsight, and should sometimes disagree with each other.
+- Dry/bureaucratic for Mandate records, terse and unpolished for dispatches, personal and opinionated for field notes. Let entries contradict each other — the book is a compilation, not a single authorial voice, and unresolved contradictions are a feature.
+
+## In-fiction dating
+
+- **The Scream** happened ~600 years before "now." Current campaign era is `3200.xxx`.
+- Pre-Scream Mandate-era dates: roughly `2580`–`2620.xxx`.
+- Post-Scream field notes/annotations: roughly `3100`–`3199.xxx`, predating the live campaign's current session dates.
+
+## Hard constraints — do not leak GM-secret material
+
+This is a **player-facing** document. Never include, confirm, or strongly imply any of the following, even obliquely:
+
+- The true methodology of Project Lighthouse (psionic experimentation on children).
+- The Eurymedon Concern → Shipyards of Eurymem "founding crime" / cover-up.
+- The Lady of Light's true identity (Dr. Seraphine Voss) or her nature.
+- Cassiel Voss's precognition or any "second Scream" foreshadowing.
+- The Great Archive's true origin (seeded by the Inuar / the Promiton).
+- Any named NPC's hidden loyalties or secret backstory not already public in play.
+
+When in doubt, leave it vague, contradictory, or omit it entirely — that's consistent with the book's voice anyway.
+
+## Quartz config
+
+- **`ContentMeta` plugin must stay disabled** (`enabled: false` on the `github:quartz-community/content-meta` entry in `quartz.config.yaml`). It renders a real-world "date · N min read" line under every title. Since content files intentionally carry no frontmatter dates, it falls back to git/filesystem timestamps and shows today's date on a document that's supposed to be six hundred years old — an immersion-breaking anachronism, not a bug. Don't re-enable it as part of an unrelated config cleanup.
+
+## Build & publish
+
+```
+npx quartz build --serve      # preview locally at localhost:8080
+npx quartz sync                # commit + push content changes
 ```
 
-CI (`.github/workflows/ci.yaml`) runs, in order: `npx quartz plugin install`, `npm run check`, `npm test`, `npx quartz build --bundleInfo -d docs`. Deploy (`deploy.yaml`) builds with `npx quartz build` and publishes `public/` to GitHub Pages on push to `v5` (the default branch, not `main`).
-
-## Architecture
-
-### Config-driven plugin system (the key deviation from upstream Quartz)
-
-Unlike stock Quartz (which declares plugins in `quartz.config.ts`), **this fork loads plugins declaratively from `quartz.config.yaml`** at build time via `quartz/plugins/loader/config-loader.ts` (`loadQuartzConfig` / `loadQuartzLayout`). To change site behavior, edit `quartz.config.yaml`, not TypeScript.
-
-- Each entry under `plugins:` in the YAML names a `source` (npm package like `@quartz-community/search`, or a git/local source), `enabled`, `order`, `options`, and optionally a `layout` block.
-- Plugins are real npm/git packages (the `@quartz-community/*` and `@quartz-themes/*` scopes), installed into `.quartz/plugins/` and resolved at load time — they are not part of this repo's source tree.
-- `config-loader.ts` determines each plugin's category (`transformer` | `filter` | `emitter` | `pageType`, or `component`) from its `package.json` `"quartz"` field (preferred) or a `manifest.ts` export, sorts by `order` within category, then instantiates them via a `default`/`plugin` export convention.
-- `quartz.config.default.yaml` is a reference/template config (not the active one) — `resolveConfigPath()` only falls back to it if `quartz.config.yaml` is missing.
-- `quartz.plugins.json` is a legacy pre-YAML format still supported as a fallback.
-
-### Layout system
-
-Page layout (where components render: `header`/`left`/`right`/`beforeBody`/`afterBody`/`footer`) is also declared per-plugin in YAML via each entry's `layout:` block (`position`, `priority`, optional `group`/`groupOptions` for flex groupings like the `toolbar` group, `display: mobile-only|desktop-only`, `condition`). Top-level `layout.byPageType` in the YAML overrides positions/exclusions per page type (`404`, `content`, `folder`, `tag`, `canvas`, `bases`). This resolution happens in `buildLayoutForEntries`/`resolveGroups` in `config-loader.ts`.
-
-### Build pipeline
-
-Entry point `quartz.ts` → `quartz/build.ts` (`buildQuartz`). For each content file: `processors/parse.ts` (Markdown → HAST via the configured `transformers`' `markdownPlugins`/`htmlPlugins`) → `processors/filter.ts` (drop pages per each `filter` plugin's `shouldPublish`) → `processors/emit.ts` (each `emitter` plugin writes output files, e.g. HTML pages, RSS, sitemap, assets). `pageType` plugins (content/folder/tag/canvas/bases/404) determine per-page `match`/`body`/`layout`. Watch mode (`--watch`) re-runs this incrementally per changed file via `chokidar`.
-
-### CLI
-
-`quartz/bootstrap-cli.mjs` (yargs) exposes `create`, `build`, `sync`, `upgrade`/`update`, `restore`, `tui` (interactive plugin manager), and `plugin <install|add|remove|list|enable|disable|config|prune>`. Handlers live in `quartz/cli/handlers.js`; plugin install/git resolution logic is in `quartz/plugins/loader/gitLoader.ts`.
-
-### Content conventions
-
-Content Markdown uses Obsidian-flavored syntax (wikilinks, callouts, mermaid, tags, block references — see the `@quartz-community/obsidian-flavored-markdown` options in `quartz.config.yaml`). `content/index.md` is the site root/home page. The active theme is `alien` (`@quartz-themes/*`), configured via the `@quartz-themes/core` plugin entry and `configuration.theme` colors in `quartz.config.yaml`.
+GitHub Pages deploys via `.github/workflows/deploy.yml` on push to the default branch. See `README.md` for full publishing steps.
