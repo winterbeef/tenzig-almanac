@@ -87,3 +87,6 @@ I am proud. I am also, if I am honest with this page and no one else, a little a
 
 > **[FIELD NOTE — Nine-Finger Sable, smuggler (self-described), 3140.305]**
 > Some doors you don't knock on even in a book nobody living can be blamed for. I've wondered more than once whether this was written by someone who boarded that ship. I've decided I'd rather not know for certain.
+
+> **[FIELD NOTE — Tamsin Ilarra, salvage contractor, 3199.011]**
+> Wherever she started from, she didn't keep going forever. See [[perope|the entry on Perope]] for what's said about where she ended up, and what's said about her now.
