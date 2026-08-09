@@ -31,6 +31,14 @@ Last Verified: 2604.118
 > **[FIELD NOTE — R. Achterberg, independent hauler, 3142.077]**
 > Nobody on Lycos today can point me to anything called a "University Consortium." Vivero's still the biggest city on the planet, still sits on top of some kind of old vault system in the hills, but whatever runs it now isn't wearing the old name. Make of that what you will — I mostly wanted a bed and a hot meal and got both, so I'm not complaining.
 
+## Traveler's Notes: Lycos, Present Day
+
+*Practical addendum, mostly neutral.* Vivero remains the obvious base for anyone passing through — the orchard-district taverns along the lower terraces are recommended without reservation, especially anywhere pouring the local stone-fruit brandy, and the crowd there skews toward off-world crew rather than locals, which suits most travelers fine. The upper Nightmarket, by contrast, is worth avoiding after dark unless you have specific business there; it's not dangerous exactly, but the people working it prefer not to be observed by anyone they didn't invite, and they notice quickly when they are.
+
+Entertainment options cluster around Vivero proper — theater, orchard-festival season, the usual civic fare — pleasant and unremarkable. Company can be arranged discreetly through several houses near the port district; ask the harbor office for a current list rather than trusting whoever approaches you first at the docks.
+
+**On bribes:** harbor fees are modest and mostly avoidable through legitimate channels, so most of what changes hands informally on Lycos isn't cash so much as information — the lower Nightmarket trades in it more freely than in credits, and the going rate for anything mentioning certain old words is, by more than one account, considerably higher than it should be for idle curiosity.
+
 ## Proclamation, Wildlands Compact (Cardoza Village and Environs)
 
 Let it be known to all traders, tax-farmers, and University men entering the Wildlands beyond the third terrace: the Compact does not recognize Consortium law, does not pay Consortium tithes, and will not be surveyed, catalogued, or "preserved" by any faculty expedition without an invitation freely given.

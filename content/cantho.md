@@ -31,6 +31,14 @@ Governance:    Central Planning Commission (civilian, self-administered)
 > **[FIELD NOTE — Nine-Finger Sable, smuggler (self-described), 3140.302]**
 > Turned down a delivery contract there once for no better reason than I didn't like how fast the harbor office answered my message. Two minutes. Nobody answers a stranger in two minutes unless they already knew you were coming.
 
+## Traveler's Notes: Cantho, Present Day
+
+*Practical addendum, mostly neutral.* Cantho remains an easy, pleasant stop for anyone not inclined to think too hard about how easy and pleasant it is. Dining and lodging near the harbor district are genuinely good and reasonably priced, and the Commission's arbitration office will resolve a contract dispute faster and more fairly than anywhere else in the sector — see the older field note above; nothing about that has changed.
+
+Entertainment is plentiful, licensed, and unremarkable — concert halls, public gardens, a respectable gaming quarter — all of it running with the same quiet efficiency as everything else here. Company and companionship services operate through registered houses only; unregistered arrangements are not illegal so much as simply unheard of, which most visitors find stranger than any law would be.
+
+**On bribes:** don't bother. Customs and harbor fees are fixed, published, and collected exactly as posted, and every attempt to pay "a little extra to move things along" is met with the same polite confusion — not refusal, confusion, as though the concept hadn't quite been anticipated. Frequent visitors report this is more unsettling than a straightforward no would be.
+
 ## Public Notice, Cantho Central Registry
 
 The Central Planning Commission is pleased to announce expanded honors and stipends for citizens demonstrating exceptional aptitude in pattern-recognition, probabilistic reasoning, and related cognitive disciplines. Interested citizens are invited to register for assessment at any Commission office. All assessed citizens, regardless of outcome, will receive a commemorative token and the Commission's sincere gratitude for their civic participation.

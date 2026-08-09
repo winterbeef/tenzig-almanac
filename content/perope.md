@@ -29,6 +29,14 @@ Last Verified: 2611.045
 > **[FIELD NOTE — Cor. Dassin, Cerberus Corps field agent, 3188.166]**
 > Filed for the record: "reasons that were not explained" is a phrase I've read in a dozen Mandate-era files now covering a dozen different systems, always right before something in that system stopped behaving the way the file said it would. I don't think the old surveyors were lying. I think somebody above them decided a freight consortium's questions weren't worth an honest answer. Different failure. Same result, six centuries later.
 
+## Traveler's Notes: Perope, Present Day
+
+*Practical addendum, mostly neutral.* Perope has no population and no starport, so there's nothing here in the way of bars, entertainment, or company — it's a crossing, not a destination, and travelers should plan their liberty stops for [[avire|Avire]] or [[tabet|Tabet]] on either side of it instead.
+
+What Perope does have is a cost of passage. Guild of Pilots escort runs the standard corridor rate, adjustable by cargo class and how nervous your captain is; independent crews report the Guild's captains rarely negotiate the base fee but will often waive incidentals for a regular client. Running the crossing unescorted is legal, common among freight haulers, and, per more than one escort captain in this volume, not something they'd personally recommend, though none of them can point to a specific reason why beyond a feeling they don't enjoy discussing.
+
+There is no customs presence and nothing resembling a bribe to pay — there is no one out here to pay it to.
+
 ## Log, Master Rigger Halvor Oduya, Independent Salvage
 
 Picked up strange traffic out toward the second rock today — a big hull, civilian registry markings but naval-grade shielding, moving slow and deliberate like she's got somewhere specific to be and no hurry getting there. Hailed her twice, got a polite refusal of contact both times, very professional, very final. My second says she looks like she's put a long transit behind her already — hull scoring, drive wear, the kind of wear you don't pick up on a short hop. Asked around dock-side after. Nobody's talking, which in my experience means somebody's paying them not to.

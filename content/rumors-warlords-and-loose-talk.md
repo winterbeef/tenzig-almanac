@@ -6,13 +6,11 @@ A catch-all of dockside gossip, secondhand warnings, and stories too small or to
 
 ## Overheard, Tavern Unnamed
 
-```
-UNVERIFIED INTELLIGENCE LOG
-Reliability:   unverified, corroborated across three unrelated tellings
-Location:      [[the-porth-belt|the belt out past Porth]]
-Source:        tavern chatter, multiple sources
-Logged:        3199.011
-```
+> **UNVERIFIED INTELLIGENCE LOG**
+> **Reliability:** unverified, corroborated across three unrelated tellings
+> **Location:** [[the-porth-belt|the belt out past Porth]]
+> **Source:** tavern chatter, multiple sources
+> **Logged:** 3199.011
 
 They say there's a corner of the belt out past Porth where ships go quiet and don't come back on schedule, not lost exactly, just late in a way nobody can explain after the fact. They say the crews that do come back don't talk about it, and the ones who talk too freely about it don't get hired again.
 

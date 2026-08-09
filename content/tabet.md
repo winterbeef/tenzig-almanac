@@ -27,6 +27,14 @@ Last Verified: 2607.190
 > **[FIELD NOTE — R. Achterberg, independent hauler, 3142.078]**
 > Say what you want about the certifying — Tabet's been the liveliest port in this cluster longer than any board's been around to take credit for it, and it still is. Some things don't need a stamp.
 
+## Traveler's Notes: Tabet, Present Day
+
+*Practical addendum, mostly neutral.* Still the liveliest port in the cluster, and the Old Quarter is where that liveliness concentrates — a dense stretch of bars, performance venues, and late-night eateries that runs well past when most other worlds' districts have gone quiet. Recommended without much qualification, though visitors should know the Old Quarter's performance-art scene runs toward the deliberately provocative these days; see [[faces-of-tabet|the entry on its current fixture]] if that's not to your taste, and plan your evening elsewhere. Districts nearer the customs house are quieter and duller by comparison, which some travelers prefer after a long transit.
+
+Entertainment is abundant and largely unregulated by comparison to Cantho — the Lantern Processional remains worth timing a visit around, held every third evening in the Old Quarter. Company and companionship arrangements are easy to find through any of several licensed houses near the port; ask a dockhand rather than a stranger at a bar for a current recommendation.
+
+**On bribes:** customs officers are, by long-standing local custom, flexible about how closely "personal effects" gets itemized, for a fee generally understood rather than posted — the manifest fragment elsewhere in this entry is typical, not exceptional. Nobody involved considers this corruption exactly; it's closer to a tradition everyone's agreed to keep pretending is a formality.
+
 ## Shipping Manifest, Tabet Customs House
 
 Declared cargo: agricultural seed stock (14 crates), replacement parts for atmospheric processors (6 crates), "personal effects" (2 crates, undeclared weight, customs fee paid in full without dispute).

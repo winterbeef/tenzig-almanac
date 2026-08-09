@@ -6,14 +6,12 @@ Not every entry in this book is safe to write plainly, and this is the closest t
 
 ## Person of Interest
 
-```
-PERSONS OF INTEREST DOSSIER
-Compiled by:   corporate security office, [[silverlight-amalgamated-and-the-new-dawn-league|Silverlight Amalgamated]] (leaked/recovered copy)
-Subject:       "Aries" (surname unconfirmed)
-Affiliation:   unconfirmed — suspected underground psychic-relocation network
-Status:        active, believed mobile through the [[perope|Perope]] cluster and [[tabet|Tabet]]
-Last Updated:  3199.305
-```
+> **PERSONS OF INTEREST DOSSIER**
+> **Compiled by:** corporate security office, [[silverlight-amalgamated-and-the-new-dawn-league|Silverlight Amalgamated]] (leaked/recovered copy)
+> **Subject:** "Aries" (surname unconfirmed)
+> **Affiliation:** unconfirmed — suspected underground psychic-relocation network
+> **Status:** active, believed mobile through the [[perope|Perope]] cluster and [[tabet|Tabet]]
+> **Last Updated:** 3199.305
 
 Subject is wanted in connection with the destruction of proprietary research materials at a Silverlight Amalgamated facility. Subject is a metapsion of confirmed capability and is believed to have provided logistical and psionic support to at least one unauthorized relocation of corporate-contracted personnel. Approach is not recommended without appropriate authorization. Subject's current objectives are unknown to this office.
 

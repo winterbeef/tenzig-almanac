@@ -6,15 +6,13 @@ The pre-Scream fragments elsewhere in this volume speak of [[eurymem-and-hypsila
 
 ## Intelligence File
 
-```
-MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY
-[continuation notation, post-Scream update appended]
-Entity:        Shipyards of Eurymem
-Sphere:        shipbuilding, heavy industry
-Major client:  [[the-aquilanes-union|Aquilanes Union]] (standing contracts)
-Status:        active, under regulatory review
-Last Updated:  3199.295
-```
+> **MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY**
+> *[continuation notation, post-Scream update appended]*
+> **Entity:** Shipyards of Eurymem
+> **Sphere:** shipbuilding, heavy industry
+> **Major client:** [[the-aquilanes-union|Aquilanes Union]] (standing contracts)
+> **Status:** active, under regulatory review
+> **Last Updated:** 3199.295
 
 The Shipyards remain one of the sector's largest hull-construction operations, with the Aquilanes Union standing as their single biggest customer. That scale has drawn scrutiny: the Commission on Industrial Safety, chaired by **Heliodor Makinde**, has an active investigation open into yard conditions and incident reporting practices. The Shipyards maintain that the investigation is routine oversight of a large operation; the Commission has not characterized it that way.
 
