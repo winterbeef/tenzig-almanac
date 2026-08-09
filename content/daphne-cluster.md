@@ -1,3 +1,7 @@
+---
+title: "The Daphne Cluster — Yakiyah (0605) and Kos (0603)"
+---
+
 # The Daphne Cluster — Yakiyah (0605) and Kos (0603)
 
 ```

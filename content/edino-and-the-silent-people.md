@@ -1,3 +1,7 @@
+---
+title: "Edino and the Silent People"
+---
+
 # Edino and the Silent People
 
 ```

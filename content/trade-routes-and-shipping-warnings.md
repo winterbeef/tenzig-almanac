@@ -1,3 +1,7 @@
+---
+title: "Trade Routes and Shipping Warnings"
+---
+
 # Trade Routes and Shipping Warnings
 
 Practical advice for merchants and haulers moving cargo across the cluster — before the routes stopped meaning what they said.

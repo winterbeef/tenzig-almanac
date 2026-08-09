@@ -1,3 +1,7 @@
+---
+title: "The Unmarked Departure"
+---
+
 # The Unmarked Departure
 
 A colony ship passes through the cluster bound for a destination no chart names — and nobody agrees on where she came from, either. Every other entry in this volume concerns a place. This one concerns a ship, and there is no tidy account of her to give. What follows are contradictions: several separate fragments, from several separate sources, each confident about where she came from, and no two of them agreeing. All are printed rather than resolved, because resolving them would mean pretending to a certainty nobody involved in compiling this actually has.

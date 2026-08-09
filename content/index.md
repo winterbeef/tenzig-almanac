@@ -1,3 +1,7 @@
+---
+title: "The Tenzig Almanac"
+---
+
 # The Tenzig Almanac: A Compiled Survey of the Cluster (Pre-Scream Fragments)
 
 ## A Note From Whoever's Holding the Pen This Week
@@ -17,6 +21,8 @@ Where a document survives with its provenance intact, that provenance is given a
 Entries are grouped roughly by system and by subject, in no particular order of importance — the surviving fragments did not come to anyone in any order, and nobody has had the nerve to impose one they didn't have. Each fragment names its original source and format where one can be determined: a Mandate survey record, a field dispatch, an intelligence log, a personal ledger, a proclamation. Where the source is lost, it is marked *hand unknown*.
 
 Signed marginal notes are later additions — field notes left by whoever was holding the document at the time, sometimes decades apart from each other. Where they disagree, the disagreement is left in.
+
+A later addition to this volume, folded in rather than kept separate: a set of dossiers on people, companies, and factions active *right now* — not pre-Scream fragments at all, but present-era intelligence, gossip, and reporting, compiled the same way and by the same scattering of hands. Treat them as you would any other entry here: partial, opinionated, and occasionally contradicted by the next clipping over.
 
 ---
 
@@ -41,3 +47,18 @@ Signed marginal notes are later additions — field notes left by whoever was ho
 - [[the-song-beneath-the-stars|On the Song Beneath the Stars]]
 - [[trade-routes-and-shipping-warnings|Trade Routes and Shipping Warnings]]
 - [[rumors-warlords-and-loose-talk|Rumors, Warlords, and Loose Talk]]
+
+**Persons of Interest**
+
+- [[carmela-paredes-and-alonzo-vera|Two Voices of the Great Archive]]
+- [[the-council-of-the-shadowmen|The Council of the Shadowmen]]
+- [[faces-of-tabet|Faces of Tabet]]
+- [[the-vanishing-agent|The Vanishing Agent]]
+
+**Corporate and Faction Intelligence**
+
+- [[the-perimeter-agency|The Perimeter Agency]]
+- [[the-heirs-of-carderas|The Heirs of Carderas]]
+- [[the-aquilanes-union|The Aquilanes Union]]
+- [[silverlight-amalgamated-and-the-new-dawn-league|Silverlight Amalgamated and the New Dawn League]]
+- [[the-shipyards-of-eurymem|The Shipyards of Eurymem, Present Day]]

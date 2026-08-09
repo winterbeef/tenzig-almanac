@@ -1,3 +1,7 @@
+---
+title: "Avire (Tabet–Perope Lagrange Point)"
+---
+
 # Avire (Tabet–Perope Lagrange Point)
 
 ```

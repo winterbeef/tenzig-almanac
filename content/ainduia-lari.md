@@ -1,3 +1,7 @@
+---
+title: "Ainduia Lari (0104)"
+---
+
 # Ainduia Lari (0104)
 
 ```

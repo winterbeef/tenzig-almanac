@@ -1,3 +1,7 @@
+---
+title: "Lycos (0303, Rado System)"
+---
+
 # Lycos (0303, Rado System)
 
 ```

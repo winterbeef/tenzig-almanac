@@ -1,3 +1,7 @@
+---
+title: "On the Song Beneath the Stars"
+---
+
 # On the Song Beneath the Stars
 
 What the old fragments say about psychic gift and starflight, in the last years before both changed forever.
