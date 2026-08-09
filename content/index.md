@@ -2,7 +2,7 @@
 title: "The Tenzig Almanac"
 ---
 
-![Sector map](https://home.illuminoid.com/games/tenzig/map_mollweide.png)
+![The Tarantula Nebula](https://home.illuminoid.com/games/tenzig/Tarantula%20Nebula.jpg)
 
 *A Compiled Survey of the Cluster (Pre-Scream Fragments)*
 
