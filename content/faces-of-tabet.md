@@ -2,8 +2,6 @@
 title: "Faces of Tabet"
 ---
 
-# Faces of Tabet
-
 [[tabet|Tabet]] is loud, crowded, and full of people worth knowing before you meet them. This dossier covers one — a man impossible to avoid hearing about — and the small, exhausted circle that keeps him functional.
 
 ## Persons of Interest

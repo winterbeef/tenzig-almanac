@@ -2,8 +2,6 @@
 title: "The Porth Belt (908 Porth) and Okotoks"
 ---
 
-# The Porth Belt (908 Porth) and Okotoks
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   908 Porth (asteroid belt), adjoining Okotoks claim

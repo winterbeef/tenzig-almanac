@@ -2,7 +2,7 @@
 title: "The Tenzig Almanac"
 ---
 
-# The Tenzig Almanac: A Compiled Survey of the Cluster (Pre-Scream Fragments)
+*A Compiled Survey of the Cluster (Pre-Scream Fragments)*
 
 ## A Note From Whoever's Holding the Pen This Week
 

@@ -2,8 +2,6 @@
 title: "Lycos (0303, Rado System)"
 ---
 
-# Lycos (0303, Rado System)
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0303

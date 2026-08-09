@@ -2,8 +2,6 @@
 title: "Edino and the Silent People"
 ---
 
-# Edino and the Silent People
-
 ```
 UNVERIFIED INTELLIGENCE LOG
 Reliability:   unverified

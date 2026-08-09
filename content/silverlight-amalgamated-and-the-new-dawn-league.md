@@ -2,8 +2,6 @@
 title: "Silverlight Amalgamated and the New Dawn League"
 ---
 
-# Silverlight Amalgamated and the New Dawn League
-
 Two names, one rivalry, and a fair amount of caution about saying too much — this one runs deeper than open shipping-lane politics, and this compiler isn't the person to go digging.
 
 ## Intelligence File

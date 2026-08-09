@@ -2,8 +2,6 @@
 title: "Ainduia Lari (0104)"
 ---
 
-# Ainduia Lari (0104)
-
 ```
 MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY
 Name:                Ainduia Lari Containment Garrison

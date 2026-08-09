@@ -2,8 +2,6 @@
 title: "Cantho (0402)"
 ---
 
-# Cantho (0402)
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0402

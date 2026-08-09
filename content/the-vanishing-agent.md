@@ -2,8 +2,6 @@
 title: "The Vanishing Agent"
 ---
 
-# The Vanishing Agent
-
 Not every entry in this book is safe to write plainly, and this is the closest this volume comes to a corporate wanted notice. Compiled largely from a single source with an obvious grudge — read accordingly.
 
 ## Person of Interest

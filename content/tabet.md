@@ -2,8 +2,6 @@
 title: "Tabet (Perope Cluster)"
 ---
 
-# Tabet (Perope Cluster)
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0404 (Perope cluster)

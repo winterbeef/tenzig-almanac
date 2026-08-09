@@ -2,8 +2,6 @@
 title: "Two Voices of the Great Archive"
 ---
 
-# Two Voices of the Great Archive
-
 A dossier, not a fragment — these two are alive and active in the present era, and this entry has no pre-Scream half. It's included because half the cluster has an opinion about the [[lycos|Great Archive]]'s internal politics, and these two names are why.
 
 ## Persons of Interest

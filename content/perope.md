@@ -2,8 +2,6 @@
 title: "Perope (0404)"
 ---
 
-# Perope (0404)
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0404

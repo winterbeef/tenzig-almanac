@@ -2,8 +2,6 @@
 title: "The Council of the Shadowmen"
 ---
 
-# The Council of the Shadowmen
-
 Five names that matter more than most to anyone booking passage through [[perope|Perope]]. The Guild of Pilots — called "the Shadowmen" by half the cluster and "the Escort and Salvage Cooperative" by the half that files paperwork — is governed by a council of five, and this dossier is that council.
 
 ## Persons of Interest

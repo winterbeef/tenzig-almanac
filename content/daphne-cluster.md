@@ -2,8 +2,6 @@
 title: "The Daphne Cluster — Yakiyah (0605) and Kos (0603)"
 ---
 
-# The Daphne Cluster — Yakiyah (0605) and Kos (0603)
-
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0605 (Yakiyah), 0603 (Kos)

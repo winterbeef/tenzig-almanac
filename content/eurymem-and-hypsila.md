@@ -2,8 +2,6 @@
 title: "Eurymem (0206) and Hypsila (0406)"
 ---
 
-# Eurymem (0206) and Hypsila (0406)
-
 ```
 MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY
 Name:                Eurymedon Concern

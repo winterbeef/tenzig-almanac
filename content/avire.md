@@ -2,8 +2,6 @@
 title: "Avire (Tabet–Perope Lagrange Point)"
 ---
 
-# Avire (Tabet–Perope Lagrange Point)
-
 ```
 MANDATE RECORD — NAVAL ASSET COMMISSIONING
 Vessel:        TMN Anemoi's Gift, Ticonderoga-class resupply

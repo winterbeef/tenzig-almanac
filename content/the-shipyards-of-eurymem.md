@@ -2,8 +2,6 @@
 title: "The Shipyards of Eurymem, Present Day"
 ---
 
-# The Shipyards of Eurymem, Present Day
-
 The pre-Scream fragments elsewhere in this volume speak of [[eurymem-and-hypsila|Eurymem]] as a Mandate industrial holding. Six hundred years on, the yards are still building — bigger than ever, by most accounts, and currently under a spotlight nobody there seems to enjoy.
 
 ## Intelligence File

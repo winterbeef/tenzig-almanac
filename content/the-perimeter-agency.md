@@ -2,8 +2,6 @@
 title: "The Perimeter Agency"
 ---
 
-# The Perimeter Agency
-
 Anyone who's dealt with a pirate problem, a smuggling ring, or a corporate dispute that got physical has probably had at least one conversation with a Cerberus Corps agent. This is the outfit behind them.
 
 ## Intelligence File
