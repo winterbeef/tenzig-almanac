@@ -2,6 +2,8 @@
 title: "Lycos (0303, Rado System)"
 ---
 
+![Lycos](https://home.illuminoid.com/games/tenzig/lycos.jpg)
+
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0303

@@ -2,6 +2,8 @@
 title: "Silverlight Amalgamated and the New Dawn League"
 ---
 
+![Silverlight Amalgamated](https://home.illuminoid.com/games/tenzig/silverlight.png) ![The New Dawn League](https://home.illuminoid.com/games/tenzig/the%20new%20dawn%20league.png)
+
 Two names, one rivalry, and a fair amount of caution about saying too much — this one runs deeper than open shipping-lane politics, and this compiler isn't the person to go digging.
 
 ## Intelligence File

@@ -2,6 +2,8 @@
 title: "The Tenzig Almanac"
 ---
 
+![Sector map](https://home.illuminoid.com/games/tenzig/map_mollweide.png)
+
 *A Compiled Survey of the Cluster (Pre-Scream Fragments)*
 
 ## A Note From Whoever's Holding the Pen This Week

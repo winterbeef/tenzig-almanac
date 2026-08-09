@@ -2,6 +2,8 @@
 title: "The Heirs of Carderas"
 ---
 
+![The Heirs of Carderas](https://home.illuminoid.com/games/tenzig/heirs%20of%20carderas.png)
+
 Every haunted stretch of the sector has a name attached to the trouble, and out past the quieter lanes, that name is Carderas. Nobody agrees on who Carderas actually was. Everyone agrees on what the Heirs do.
 
 ## Intelligence File

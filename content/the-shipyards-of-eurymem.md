@@ -2,7 +2,9 @@
 title: "The Shipyards of Eurymem, Present Day"
 ---
 
-The pre-Scream fragments elsewhere in this volume speak of [[eurymem-and-hypsila|Eurymem]] as a Mandate industrial holding. Six hundred years on, the yards are still building — bigger than ever, by most accounts, and currently under a spotlight nobody there seems to enjoy.
+![Shipyards of Eurymem](https://home.illuminoid.com/games/tenzig/eurymem.jpg)
+
+The world called Eurymem hosted a Mandate-era shipbuilding concern once, per the pre-Scream fragments elsewhere in this volume. Whether today's Shipyards of Eurymem is that same concern grown old under new management, an unrelated operation that simply inherited a convenient name and a well-situated system, or something else again is not a question this compiler is equipped to settle. What's certain: someone is building here now, bigger than ever by most accounts, and currently under a spotlight nobody there seems to enjoy.
 
 ## Intelligence File
 

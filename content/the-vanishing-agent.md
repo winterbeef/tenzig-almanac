@@ -2,6 +2,8 @@
 title: "The Vanishing Agent"
 ---
 
+![Wanted: subject known as "Aries" — surveillance composite, unverified](https://home.illuminoid.com/games/tenzig/agent-surveillance.png)
+
 Not every entry in this book is safe to write plainly, and this is the closest this volume comes to a corporate wanted notice. Compiled largely from a single source with an obvious grudge — read accordingly.
 
 ## Person of Interest

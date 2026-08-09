@@ -2,6 +2,8 @@
 title: "Tabet (Perope Cluster)"
 ---
 
+![Tabet](https://home.illuminoid.com/games/tenzig/tabet.jpg)
+
 ```
 MANDATE RECORD — SYSTEM SURVEY
 Coordinates:   0404 (Perope cluster)

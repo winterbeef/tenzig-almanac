@@ -2,6 +2,8 @@
 title: "Trade Routes and Shipping Warnings"
 ---
 
+![A freighter on approach](https://home.illuminoid.com/games/tenzig/freighter.jpg)
+
 Practical advice for merchants and haulers moving cargo across the cluster — before the routes stopped meaning what they said.
 
 ## Route Guide, Tabet-Perope Freight Consortium, Standard Edition

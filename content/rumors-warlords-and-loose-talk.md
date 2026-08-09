@@ -2,6 +2,8 @@
 title: "Rumors, Warlords, and Loose Talk"
 ---
 
+![The dark between the stars](https://home.illuminoid.com/games/tenzig/starfield.jpg)
+
 A catch-all of dockside gossip, secondhand warnings, and stories too small or too strange to fit anywhere else in this volume. Most of what follows was never meant to be a formal record of anything — it is logged here in the same rough intelligence-log format the crews who first heard it would have used, reliability graded honestly where it can be.
 
 ## Overheard, Tavern Unnamed

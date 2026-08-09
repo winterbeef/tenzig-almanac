@@ -2,6 +2,8 @@
 title: "Eurymem (0206) and Hypsila (0406)"
 ---
 
+![Eurymedon Concern](https://home.illuminoid.com/games/tenzig/eurymedon.jpg)
+
 ```
 MANDATE RECORD — POLITICAL/ORGANIZATIONAL ENTITY
 Name:                Eurymedon Concern

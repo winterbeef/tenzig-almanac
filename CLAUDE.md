@@ -61,6 +61,8 @@ This is a **player-facing** document. Never include, confirm, or strongly imply 
 
 When in doubt, leave it vague, contradictory, or omit it entirely — that's consistent with the book's voice anyway.
 
+**Eurymedon Concern and the Shipyards of Eurymem specifically:** any connection between them must stay at the level of a character's own guess or a coincidence a sharp reader could notice (shared home system, a name that sounds similar, a stamp that's older than it should be) — never stated in the compiler's own neutral voice as settled fact. This includes non-text signals: don't reuse the same logo/image for both, don't give them identical branding, and don't word an unsigned intro paragraph in a way that asserts continuity between them. Players are meant to piece this together themselves.
+
 ## Quartz config
 
 - **`ContentMeta` plugin must stay disabled** (`enabled: false` on the `github:quartz-community/content-meta` entry in `quartz.config.yaml`). It renders a real-world "date · N min read" line under every title. Since content files intentionally carry no frontmatter dates, it falls back to git/filesystem timestamps and shows today's date on a document that's supposed to be six hundred years old — an immersion-breaking anachronism, not a bug. Don't re-enable it as part of an unrelated config cleanup.

@@ -2,6 +2,8 @@
 title: "Faces of Tabet"
 ---
 
+![Appius Faust](https://home.illuminoid.com/games/tenzig/appius%20faust.jpg)
+
 [[tabet|Tabet]] is loud, crowded, and full of people worth knowing before you meet them. This dossier covers one — a man impossible to avoid hearing about — and the small, exhausted circle that keeps him functional.
 
 ## Persons of Interest
